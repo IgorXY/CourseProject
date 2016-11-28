@@ -10,6 +10,10 @@
 #define IDD_ABOUTBOX			103
 #define IDM_ABOUT				104
 #define IDM_EXIT				105
+#define IDM_REC				    110
+#define IDM_SAVE				111
+#define IDM_OPEN				112
+#define IDM_PLAY				113
 #define IDI_COURSEV1			107
 #define IDI_SMALL				108
 #define IDC_COURSEV1			109
